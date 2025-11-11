@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#G",
+        "SR"
+    ],
+    "key": {
+        "#": "minecraft:glowstone_dust",
+        "G": "minecraft:gunpowder",
+        "S": "minecraft:sugar",
+        "R": "minecraft:redstone"
+    },
+    "result": {
+        "id": "test-mod:suspicious_substance",
+        "count": 1
+    }
+}
